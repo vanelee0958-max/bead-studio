@@ -17,7 +17,7 @@
 
 ## 在线体验
 
-<https://bead-studio-21694.app.workbuddy.host/?sharecode=ONKNUUQ535>
+<https://bead-studio-21694.app.workbuddy.host/?sharecode=ONKNUUQ535>（直接点击，其余不用管！！！）
 
 ## 核心功能
 

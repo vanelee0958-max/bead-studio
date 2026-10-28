@@ -37,7 +37,7 @@
 不需要安装任何东西，也不需要构建：
 
 ```bash
-git clone https://github.com/<你的用户名>/bead-studio.git
+git clone https://github.com/vanelee0958-max/bead-studio.git
 cd bead-studio
 # 直接双击 index.html
 ```
